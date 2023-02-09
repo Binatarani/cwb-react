@@ -1,5 +1,5 @@
 import logo from "./logo.svg";
-import "./https://binatarani.github.io/cwb-react/";
+// import "./https://binatarani.github.io/cwb-react/";
 import "./App.css";
 
 function App() {
